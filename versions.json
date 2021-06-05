@@ -1,0 +1,17 @@
+{
+    "android": "2.8.0",
+    "desktop": "2.4.0",
+    "ios": "2.8.1",
+    "release_notes": {
+        "en": {
+            "android": "New version 2.8.0: Dark mode, language selection, and refreshed UI!",
+            "desktop": "New version 2.4.0 released!",
+            "ios": "New version 2.8.1: Fixed a bug that causes file transfer to fail and raised file share limit to 1000 files."
+        },
+        "zh": {
+            "android": "新版本 2.8.0：深色模式、语言选择和全新界面设计！",
+            "desktop": "发现新版本 2.4.0！",
+            "ios": "新版本 2.8.1：修复了导致文件传输失败的错误以及将文件共享限制提高到1000个文件。"
+        }
+    }
+}
