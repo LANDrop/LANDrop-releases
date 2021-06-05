@@ -1,0 +1,17 @@
+{
+    "android": "2.5.1",
+    "desktop": "2.3.2",
+    "ios": "2.5.1",
+    "release_notes": {
+        "en": {
+            "android": "New version 2.5.1 released! Resolved a critical issue that could lead to devices being undetected and potentially crashing the network and other connected devices.",
+            "desktop": "",
+            "ios": "New version 2.5.1 released! Resolved a critical issue that could lead to devices being undetected and potentially crashing the network and other connected devices."
+        },
+        "zh": {
+            "android": "发现新版本 2.5.1！修复了一个可能导致网络和其他设备崩溃以及设备无法被检测到的严重问题。",
+            "desktop": "",
+            "ios": "发现新版本 2.5.1！修复了一个可能导致网络和其他设备崩溃以及设备无法被检测到的严重问题。"
+        }
+    }
+}
